@@ -18,7 +18,7 @@
 
 
 ## [ АППАРАТНЫЕ ТРЕБОВАНИЯ ]
-смартфон Android/IOS с вощможностью скачать и установить файл apk
+смартфон Android с возможностью скачать и установить файл apk
 
 
 
@@ -41,7 +41,7 @@ https://du.moex.com/mutual-funds?minInvest=300000
 * banki.ru
 
 ## [ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]
-Flutter, Dart, Firebase
+Flutter, Dart, SQL
 
 
 ## [ ЭТАПЫ РАЗРАБОТКИ ]
